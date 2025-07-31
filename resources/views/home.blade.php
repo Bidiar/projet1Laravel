@@ -7,6 +7,7 @@
     <title>Document</title>
 </head>
 <body>
-   <h1>bienvenu dans laravel </h1> 
+   <h1>App-yassarou </h1> 
+   <p>Bienvenue dans l'application Yassarou.</p>
 </body>
 </html>
